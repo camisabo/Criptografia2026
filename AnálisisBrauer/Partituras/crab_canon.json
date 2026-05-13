@@ -1,0 +1,1793 @@
+[
+  {
+    "part": 1,
+    "clef": {
+      "sign": "G",
+      "line": 2
+    },
+    "key_signature": {
+      "sharps": -3,
+      "key": "E- major"
+    },
+    "measures": [
+      {
+        "measure": 1,
+        "notes": [
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 1,
+            "position": 1,
+            "staff_position": -4
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 1,
+            "position": 2,
+            "staff_position": -2
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 1,
+            "position": 3,
+            "staff_position": 0
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 1,
+            "position": 4,
+            "staff_position": 3
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 1,
+            "position": 5,
+            "staff_position": -4
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 1,
+            "position": 6,
+            "staff_position": -2
+          }
+        ]
+      },
+      {
+        "measure": 2,
+        "notes": [
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 2,
+            "position": 7,
+            "staff_position": 2
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 2,
+            "position": 8,
+            "staff_position": 3
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 2,
+            "position": 9,
+            "staff_position": 4
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 2,
+            "position": 10,
+            "staff_position": 5
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 2,
+            "position": 11,
+            "staff_position": 6
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 2,
+            "position": 12,
+            "staff_position": 5
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 2,
+            "position": 13,
+            "staff_position": 4
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 2,
+            "position": 14,
+            "staff_position": 3
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 2,
+            "position": 15,
+            "staff_position": 0
+          },
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 2,
+            "position": 16,
+            "staff_position": 1
+          }
+        ]
+      },
+      {
+        "measure": 3,
+        "notes": [
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 3,
+            "position": 17,
+            "staff_position": 4
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 3,
+            "position": 18,
+            "staff_position": 0
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 3,
+            "position": 19,
+            "staff_position": 4
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 3,
+            "position": 20,
+            "staff_position": 6
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 3,
+            "position": 21,
+            "staff_position": 5
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 3,
+            "position": 22,
+            "staff_position": 4
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 3,
+            "position": 23,
+            "staff_position": 3
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 3,
+            "position": 24,
+            "staff_position": 2
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 3,
+            "position": 25,
+            "staff_position": -5
+          },
+          {
+            "type": "rest",
+            "note": null,
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 3,
+            "position": 26,
+            "staff_position": null
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 3,
+            "position": 27,
+            "staff_position": 0,
+            "tie": "start"
+          }
+        ]
+      },
+      {
+        "measure": 4,
+        "notes": [
+          {
+            "note": "A",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 4,
+            "position": 28,
+            "staff_position": 1
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 4,
+            "position": 29,
+            "staff_position": 2
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 4,
+            "position": 30,
+            "staff_position": 3
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 4,
+            "position": 31,
+            "staff_position": 5
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 4,
+            "position": 32,
+            "staff_position": 4
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 4,
+            "position": 33,
+            "staff_position": 3
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 4,
+            "position": 34,
+            "staff_position": 2
+          },
+          {
+            "note": "A",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 4,
+            "position": 35,
+            "staff_position": 1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 4,
+            "position": 36,
+            "staff_position": 0,
+            "tie": "stop"
+          },
+          {
+            "note": "F",
+            "alteration": 1,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 4,
+            "position": 37,
+            "staff_position": -1
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 4,
+            "position": 38,
+            "staff_position": -1,
+            "tie": "start"
+          }
+        ]
+      },
+      {
+        "measure": 5,
+        "notes": [
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 5,
+            "position": 39,
+            "staff_position": 0
+          },
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 5,
+            "position": 40,
+            "staff_position": 1
+          },
+          {
+            "note": "B",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 5,
+            "position": 41,
+            "staff_position": 2
+          },
+          {
+            "note": "D",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 5,
+            "position": 42,
+            "staff_position": 4
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 5,
+            "position": 43,
+            "staff_position": 3
+          },
+          {
+            "note": "B",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 5,
+            "position": 44,
+            "staff_position": 2
+          },
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 5,
+            "position": 45,
+            "staff_position": 1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 5,
+            "position": 46,
+            "staff_position": 0
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 5,
+            "position": 47,
+            "staff_position": -1,
+            "tie": "stop"
+          },
+          {
+            "note": "E",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 5,
+            "position": 48,
+            "staff_position": -2
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 5,
+            "position": 49,
+            "staff_position": -2,
+            "tie": "start"
+          }
+        ]
+      },
+      {
+        "measure": 6,
+        "notes": [
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 6,
+            "position": 50,
+            "staff_position": -1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 6,
+            "position": 51,
+            "staff_position": 0
+          },
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 6,
+            "position": 52,
+            "staff_position": 1
+          },
+          {
+            "note": "B",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 6,
+            "position": 53,
+            "staff_position": 2
+          },
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 6,
+            "position": 54,
+            "staff_position": 1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 6,
+            "position": 55,
+            "staff_position": 0
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 6,
+            "position": 56,
+            "staff_position": -1
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 6,
+            "position": 57,
+            "staff_position": -2
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 6,
+            "position": 58,
+            "staff_position": -2,
+            "tie": "stop"
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 6,
+            "position": 59,
+            "staff_position": -3
+          },
+          {
+            "note": "D",
+            "alteration": -1,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 6,
+            "position": 60,
+            "staff_position": -3
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 6,
+            "position": 61,
+            "staff_position": -4
+          }
+        ]
+      },
+      {
+        "measure": 7,
+        "notes": [
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 7,
+            "position": 62,
+            "staff_position": -3
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 7,
+            "position": 63,
+            "staff_position": -2
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 7,
+            "position": 64,
+            "staff_position": -1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 7,
+            "position": 65,
+            "staff_position": 0
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 7,
+            "position": 66,
+            "staff_position": -1
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 7,
+            "position": 67,
+            "staff_position": -2
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 7,
+            "position": 68,
+            "staff_position": -3
+          },
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 7,
+            "position": 69,
+            "staff_position": 1
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 7,
+            "position": 70,
+            "staff_position": -5
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 7,
+            "position": 71,
+            "staff_position": -7
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 7,
+            "position": 72,
+            "staff_position": -4
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 7,
+            "position": 73,
+            "staff_position": -1
+          }
+        ]
+      },
+      {
+        "measure": 8,
+        "notes": [
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 8,
+            "position": 74,
+            "staff_position": 0
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 8,
+            "position": 75,
+            "staff_position": -1
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 8,
+            "position": 76,
+            "staff_position": -2
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 8,
+            "position": 77,
+            "staff_position": 3
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 8,
+            "position": 78,
+            "staff_position": 2
+          },
+          {
+            "note": "A",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 8,
+            "position": 79,
+            "staff_position": 1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 8,
+            "position": 80,
+            "staff_position": 0
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 8,
+            "position": 81,
+            "staff_position": -1
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 8,
+            "position": 82,
+            "staff_position": -2
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 8,
+            "position": 83,
+            "staff_position": -3
+          }
+        ]
+      },
+      {
+        "measure": 9,
+        "notes": [
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 9,
+            "position": 84,
+            "staff_position": -2
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 9,
+            "position": 85,
+            "staff_position": -3
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 9,
+            "position": 86,
+            "staff_position": -2
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 9,
+            "position": 87,
+            "staff_position": 0
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 9,
+            "position": 88,
+            "staff_position": 3
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 9,
+            "position": 89,
+            "staff_position": 0
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 9,
+            "position": 90,
+            "staff_position": -1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 9,
+            "position": 91,
+            "staff_position": 0
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 9,
+            "position": 92,
+            "staff_position": -4
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 9,
+            "position": 93,
+            "staff_position": -2
+          }
+        ]
+      },
+      {
+        "measure": 10,
+        "notes": [
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 10,
+            "position": 94,
+            "staff_position": 0
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 10,
+            "position": 95,
+            "staff_position": -1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 10,
+            "position": 96,
+            "staff_position": 0
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 10,
+            "position": 97,
+            "staff_position": 3
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 10,
+            "position": 98,
+            "staff_position": 0
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 10,
+            "position": 99,
+            "staff_position": -2
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 10,
+            "position": 100,
+            "staff_position": -3
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 10,
+            "position": 101,
+            "staff_position": -2
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 10,
+            "position": 102,
+            "staff_position": -2
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 10,
+            "position": 103,
+            "staff_position": -4
+          }
+        ]
+      },
+      {
+        "measure": 11,
+        "notes": [
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 11,
+            "position": 104,
+            "staff_position": -1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 11,
+            "position": 105,
+            "staff_position": 0
+          },
+          {
+            "note": "A",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 11,
+            "position": 106,
+            "staff_position": 1
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 11,
+            "position": 107,
+            "staff_position": 2
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 11,
+            "position": 108,
+            "staff_position": 3
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 11,
+            "position": 109,
+            "staff_position": -2
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 11,
+            "position": 110,
+            "staff_position": -1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 11,
+            "position": 111,
+            "staff_position": 0
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 11,
+            "position": 112,
+            "staff_position": -3
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 11,
+            "position": 113,
+            "staff_position": -2
+          }
+        ]
+      },
+      {
+        "measure": 12,
+        "notes": [
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 12,
+            "position": 114,
+            "staff_position": 1
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 12,
+            "position": 115,
+            "staff_position": -3
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 12,
+            "position": 116,
+            "staff_position": -2
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 12,
+            "position": 117,
+            "staff_position": -1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 12,
+            "position": 118,
+            "staff_position": 0
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 12,
+            "position": 119,
+            "staff_position": -1
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 12,
+            "position": 120,
+            "staff_position": -2
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 12,
+            "position": 121,
+            "staff_position": -3
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 12,
+            "position": 122,
+            "staff_position": -1
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 12,
+            "position": 123,
+            "staff_position": -4
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 12,
+            "position": 124,
+            "staff_position": -7
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 12,
+            "position": 125,
+            "staff_position": -5
+          }
+        ]
+      },
+      {
+        "measure": 13,
+        "notes": [
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 13,
+            "position": 126,
+            "staff_position": -2
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 13,
+            "position": 127,
+            "staff_position": -1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 13,
+            "position": 128,
+            "staff_position": 0
+          },
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 13,
+            "position": 129,
+            "staff_position": 1
+          },
+          {
+            "note": "B",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 13,
+            "position": 130,
+            "staff_position": 2
+          },
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 13,
+            "position": 131,
+            "staff_position": 1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 13,
+            "position": 132,
+            "staff_position": 0
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 13,
+            "position": 133,
+            "staff_position": -1
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 13,
+            "position": 134,
+            "staff_position": -4
+          },
+          {
+            "note": "D",
+            "alteration": -1,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 13,
+            "position": 135,
+            "staff_position": -3
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 13,
+            "position": 136,
+            "staff_position": -3
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 13,
+            "position": 137,
+            "staff_position": -2,
+            "tie": "start"
+          }
+        ]
+      },
+      {
+        "measure": 14,
+        "notes": [
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 14,
+            "position": 138,
+            "staff_position": 0
+          },
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 14,
+            "position": 139,
+            "staff_position": 1
+          },
+          {
+            "note": "B",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 14,
+            "position": 140,
+            "staff_position": 2
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 14,
+            "position": 141,
+            "staff_position": 3
+          },
+          {
+            "note": "D",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 14,
+            "position": 142,
+            "staff_position": 4
+          },
+          {
+            "note": "B",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 14,
+            "position": 143,
+            "staff_position": 2
+          },
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 14,
+            "position": 144,
+            "staff_position": 1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 14,
+            "position": 145,
+            "staff_position": 0
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 14,
+            "position": 146,
+            "staff_position": -2,
+            "tie": "stop"
+          },
+          {
+            "note": "E",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 14,
+            "position": 147,
+            "staff_position": -2
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 14,
+            "position": 148,
+            "staff_position": -1,
+            "tie": "start"
+          }
+        ]
+      },
+      {
+        "measure": 15,
+        "notes": [
+          {
+            "note": "A",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 15,
+            "position": 149,
+            "staff_position": 1
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 15,
+            "position": 150,
+            "staff_position": 2
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 15,
+            "position": 151,
+            "staff_position": 3
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 15,
+            "position": 152,
+            "staff_position": 4
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 15,
+            "position": 153,
+            "staff_position": 5
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 15,
+            "position": 154,
+            "staff_position": 3
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 15,
+            "position": 155,
+            "staff_position": 2
+          },
+          {
+            "note": "A",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 15,
+            "position": 156,
+            "staff_position": 1
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 15,
+            "position": 157,
+            "staff_position": -1,
+            "tie": "stop"
+          },
+          {
+            "note": "F",
+            "alteration": 1,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 15,
+            "position": 158,
+            "staff_position": -1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 15,
+            "position": 159,
+            "staff_position": 0,
+            "tie": "start"
+          }
+        ]
+      },
+      {
+        "measure": 16,
+        "notes": [
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 16,
+            "position": 160,
+            "staff_position": 2
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 16,
+            "position": 161,
+            "staff_position": 3
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 16,
+            "position": 162,
+            "staff_position": 4
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 16,
+            "position": 163,
+            "staff_position": 5
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 16,
+            "position": 164,
+            "staff_position": 6
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 16,
+            "position": 165,
+            "staff_position": 4
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 16,
+            "position": 166,
+            "staff_position": 0
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 16,
+            "position": 167,
+            "staff_position": 4
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 16,
+            "position": 168,
+            "staff_position": 0,
+            "tie": "stop"
+          },
+          {
+            "type": "rest",
+            "note": null,
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 16,
+            "position": 169,
+            "staff_position": null
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 16,
+            "position": 170,
+            "staff_position": -5
+          }
+        ]
+      },
+      {
+        "measure": 17,
+        "notes": [
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 17,
+            "position": 171,
+            "staff_position": 3
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 17,
+            "position": 172,
+            "staff_position": 4
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 17,
+            "position": 173,
+            "staff_position": 5
+          },
+          {
+            "note": "F",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 17,
+            "position": 174,
+            "staff_position": 6
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 17,
+            "position": 175,
+            "staff_position": 5
+          },
+          {
+            "note": "D",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 17,
+            "position": 176,
+            "staff_position": 4
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 17,
+            "position": 177,
+            "staff_position": 3
+          },
+          {
+            "note": "B",
+            "alteration": 0,
+            "figure": "eighth",
+            "duration": 0.5,
+            "measure": 17,
+            "position": 178,
+            "staff_position": 2
+          },
+          {
+            "note": "A",
+            "alteration": -1,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 17,
+            "position": 179,
+            "staff_position": 1
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 17,
+            "position": 180,
+            "staff_position": 0
+          }
+        ]
+      },
+      {
+        "measure": 18,
+        "notes": [
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 18,
+            "position": 181,
+            "staff_position": 3
+          },
+          {
+            "note": "G",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 18,
+            "position": 182,
+            "staff_position": 0
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 18,
+            "position": 183,
+            "staff_position": -2
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "quarter",
+            "duration": 1.0,
+            "measure": 18,
+            "position": 184,
+            "staff_position": -4
+          },
+          {
+            "note": "E",
+            "alteration": -1,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 18,
+            "position": 185,
+            "staff_position": -2
+          },
+          {
+            "note": "C",
+            "alteration": 0,
+            "figure": "half",
+            "duration": 2.0,
+            "measure": 18,
+            "position": 186,
+            "staff_position": -4
+          }
+        ]
+      }
+    ]
+  }
+]
