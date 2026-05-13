@@ -320,6 +320,35 @@ def analyze(json_path, out_json=None, plot_path=None, crab=False):
             with open(out_json, "w", encoding="utf-8") as f:
                 json.dump(result, f, indent=2, ensure_ascii=False)
 
+    # Bloque para visualizar el Brauer Quiver
+    if plot_path: 
+        import networkx as nx
+        G = nx.DiGraph()
+        for v, succs in successors.items():
+            for s in succs:
+                # Simplificamos los nombres para el gráfico
+                # Manejamos si v es una nota simple o un acorde (tupla de tuplas)
+                def get_label(vertex):
+                    if isinstance(vertex[0], tuple): # Es un acorde
+                        return "Chord"
+                    note = str(vertex[0])
+                    alt = "#" if vertex[1] > 0 else ("b" if vertex[1] < 0 else "")
+                    return f"{note}{alt}"
+
+                G.add_edge(get_label(v), get_label(s))
+        
+        plt.figure(figsize=(10, 10))
+        pos = nx.spring_layout(G, k=0.5) # k ajusta la distancia entre nodos
+        nx.draw(G, pos, with_labels=True, node_color='lavender', 
+                edge_color='steelblue', node_size=1500, font_size=8, 
+                arrows=True, arrowsize=15)
+        plt.title("Brauer Quiver (Q_M)")
+        
+        # AQUÍ ESTÁ EL CAMBIO: Usamos plot_path en lugar de un nombre fijo
+        quiver_path = plot_path.replace(".png", "_quiver.png")
+        plt.savefig(quiver_path, dpi=300, bbox_inches='tight')
+        print(f"¡Grafo del Quiver guardado en: {quiver_path}!")
+
     return result
 
 
