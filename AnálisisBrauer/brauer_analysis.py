@@ -235,6 +235,15 @@ def geometric_mapping(score_json, filter_repeats=True):
     for part in score_json:
         for measure in part.get("measures", []):
             for ev in measure.get("notes", []):
+
+                #---ignorar los silencios---
+                if ev.get("type") == "rest": 
+                    continue
+
+                #---filtro---
+                if ev.get("note") != "D":
+                    continue
+
                 # get y coordinate
                 sp = ev.get("staff_position")
                 if isinstance(sp, list):
@@ -265,7 +274,13 @@ def plot_points(points, outpath):
     xs = [p["x"] for p in points]
     ys = [p["y"] for p in points]
     plt.figure(figsize=(10, 4))
+
+    #---con linea---
     plt.plot(xs, ys, marker="o", linestyle="-", color="k")
+
+    #---sin linea---
+    #plt.plot(xs, ys, marker="o", linestyle="", color="k", markersize=4, alpha=0.6)
+
     plt.xlabel("Index (x)")
     plt.ylabel("Staff distance to clef reference (y)")
     plt.grid(alpha=0.3)
