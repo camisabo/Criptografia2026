@@ -241,8 +241,8 @@ def geometric_mapping(score_json, filter_repeats=True):
                     continue
 
                 #---filtro---
-                if ev.get("note") != "D":
-                    continue
+                #if ev.get("note") != "D":
+                #    continue
 
                 # get y coordinate
                 sp = ev.get("staff_position")
